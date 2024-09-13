@@ -1,0 +1,43 @@
+import 'package:diploy/res/base.dart';
+
+class ShopAssets{
+  static const _base = BasePaths.baseShopPath;
+  static const accessories = "$_base/accessories.png";
+  static const address = "$_base/address.png";
+  static const callingicon = "$_base/callingicon.png";
+  static const cash = "$_base/cash.png";
+  static const cross = "$_base/cross.png";
+  static const customdeliveryboy = "$_base/customdeliveryboy.png";
+  static const debitcard = "$_base/debitcard.png";
+  static const deliveryboy = "$_base/deliveryboy.png";
+  static const fertilizers = "$_base/fertilizers.png";
+  static const fiddle_leaf = "$_base/fiddle_leaf.png";
+  static const fiddleleaf = "$_base/fiddleleaf.png";
+  static const garden_gloves = "$_base/garden_gloves.png";
+  static const gardenhoses = "$_base/gardenhoses.png";
+  static const gardentool = "$_base/gardentool.png";
+  static const googlepay = "$_base/googlepay.png";
+  static const greencorrect = "$_base/greencorrect.png";
+  static const monstera = "$_base/monstera.png";
+  static const mud_pot = "$_base/mud_pot.png";
+  static const netbanking = "$_base/netbanking.png";
+  static const ordersummary = "$_base/ordersummary.png";
+  static const payment = "$_base/payment.png";
+  static const payment_done = "$_base/payment_done.png";
+  static const paymentsuccess = "$_base/paymentsuccess.png";
+  static const paytm = "$_base/paytm.png";
+  static const peace_lily = "$_base/peace_lily.png";
+  static const pecentage = "$_base/pecentage.png";
+  static const phoneicon = "$_base/phoneicon.png";
+  static const phonepay = "$_base/phonepay.png";
+  static const planters = "$_base/planters.png";
+  static const plant = "$_base/plants.png";
+  static const plastic_pot = "$_base/plastic_pot.png";
+  static const pothos = "$_base/Pothos.png";
+  static const product_detail = "$_base/product_detail.png";
+  static const rubber = "$_base/rubber.png";
+  static const rubber_plant = "$_base/rubber_plant.png";
+  static const succulent = "$_base/succulent.png";
+  static const watering_can = "$_base/watering_can.png";
+  static const wishlisticon = "$_base/wishlisticon.png";
+}
